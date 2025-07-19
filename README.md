@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Issam Hijazi
-- 👀 I’m interested in data and AI
+
